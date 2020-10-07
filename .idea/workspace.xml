@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4deb5a8f-9d59-485c-ae39-3a948c469c3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="62924f99-fbe7-46da-b750-a2a067bf4786" />
+  <component name="ProjectId" id="1iNfZFqCl8LRSbGVLPnRIbzlkjR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4deb5a8f-9d59-485c-ae39-3a948c469c3d" name="Default Changelist" comment="" />
+      <created>1601753023901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601753023901</updated>
+      <workItem from="1601753032877" duration="14000" />
+      <workItem from="1601753693052" duration="620000" />
+      <workItem from="1601756035393" duration="1868000" />
+      <workItem from="1602088139715" duration="408000" />
+      <workItem from="1602089771012" duration="1701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom" timestamp="1602090639244">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1602090639244" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center" timestamp="1602090639243">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1602090639243" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left" timestamp="1602090639243">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1602090639243" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right" timestamp="1602090639244">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1602090639244" />
+    <state x="331" y="75" key="SettingsEditor" timestamp="1601753759537">
+      <screen x="0" y="23" width="1600" height="826" />
+    </state>
+    <state x="331" y="75" key="SettingsEditor/0.23.1600.826/-1440.296.1440.877@0.23.1600.826" timestamp="1601753759537" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Zookeeper$Zookeeper_Show_me_an_animal_.coverage" NAME="Zookeeper/Show me an animal! Coverage Results" MODIFIED="1601756184929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Zookeeper$Zookeeper_Sustainable_care__3.coverage" NAME="Zookeeper/Sustainable care &lt;3 Coverage Results" MODIFIED="1602091127601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Zookeeper$Zookeeper_What_s_inside_.coverage" NAME="Zookeeper/What's inside? Coverage Results" MODIFIED="1601760102420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Zookeeper$Zookeeper_Rush_into_print_.coverage" NAME="Zookeeper/Rush into print. Coverage Results" MODIFIED="1601754007248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
